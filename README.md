@@ -28,15 +28,6 @@ Inventory mismanagement leads to significant financial losses and customer dissa
 - **Jupyter Notebook**: for modeling and experimentation
 - **Power BI**: for dashboard and reporting
 - **CSV Files**: as the primary dataset source
-
----
-
-## 📁 Project Structure
-├── data/ # Raw and cleaned datasets
-├── notebook/ # Jupyter notebook for EDA and modeling
-├── dashboard/ # Power BI .pbix file
-
-
 ---
 
 ## 📈 Power BI Dashboard Highlights
