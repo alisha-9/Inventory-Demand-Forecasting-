@@ -14,6 +14,7 @@ Inventory mismanagement leads to significant financial losses and customer dissa
 - Help stakeholders visualize trends through a dashboard
 
 ---
+![DASHBOARD](https://github.com/user-attachments/assets/59157fc7-b7c4-4d4c-a670-a6a5d78c49d0)
 
 ## ✅ Features
 - 📊 Exploratory Data Analysis (EDA)
@@ -63,6 +64,3 @@ Load into Power BI
   3.Advanced forecasting models like Prophet or LSTM
   4.Integration with inventory management systems
 
-
-📜 License
-This project is open-source and available under the MIT License.
